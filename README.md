@@ -12,11 +12,11 @@
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Online%20✓-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e)](https://waguapis.online)
-[![Endpoints](https://img.shields.io/badge/Endpoints-80%2B-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)
-[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-22c55e?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)
-[![Resposta](https://img.shields.io/badge/Resposta-menor_que_2s-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)
-[![Lançamento](https://img.shields.io/badge/Lançamento-2026-ec4899?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)
+[![Status](https://img.shields.io/badge/Status-Online%20✓-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e)](https://waguapis.online)  
+[![Endpoints](https://img.shields.io/badge/Endpoints-80%2B-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)  
+[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-22c55e?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)  
+[![Resposta](https://img.shields.io/badge/Resposta-menor_que_2s-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)  
+[![Lançamento](https://img.shields.io/badge/Lançamento-2026-ec4899?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)  
 
 <br/>
 
@@ -40,9 +40,9 @@
 - [📦 Planos](#-planos)
 - [🌐 Base URL](#-base-url)
 - [📡 Endpoints documentados](#-endpoints-documentados)
-  - [🔍 YouTube Search](#-youtube-search)
-  - [🎴 Sticker / Figurinha](#-sticker--figurinha)
-  - [⬇️ Downloader Universal](#️-downloader-universal)
+- [🔍 YouTube Search](#-youtube-search)
+- [🎴 Sticker / Figurinha](#-sticker--figurinha)
+- [⬇️ Downloader Universal](#️-downloader-universal)
 - [🛠️ Ferramentas de integração](#️-ferramentas-de-integração)
 - [❌ Erros comuns](#-erros-comuns)
 - [👨‍💻 Criador](#-criador)
@@ -107,9 +107,9 @@ GET https://waguapis.online/yt-search?titulo=matuê+1993&apitoken=SUA_KEY
 
 | Plano | Requisições | Endpoints | Suporte | Preço |
 |-------|-------------|-----------|---------|-------|
-| 🆓 **Básico** | 10/dia | Básicos | E-mail | Grátis |
-| ⭐ **Premium** | Ilimitadas | Todos (80+) | Prioritário | Consulte |
-| 🏢 **Enterprise** | Ilimitadas | Exclusivos + Custom | Dedicado | Sob demanda |
+| ⚖️ **Básico** | 1000 | Básicos | Instagram | 1R$ |
+| ⭐ **Premium** | 5000 | Todos (80+) | Instagram | 5R$ |
+| 👑 **Enterprise** | 2000 | Instagram | Dedicado | 20R$ |
 
 > 📲 Para contratar, acesse: **[instagram.com/uzuback](https://instagram.com/uzuback)**
 

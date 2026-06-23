@@ -5,7 +5,7 @@
 
 <br/>
 
-# 🟣 WAGURI API's
+# 🧩 WAGURI API's 🎨
 
 **Uma plataforma completa de APIs**  
 **para desenvolvedores que criam sistemas modernos e automatizados.**
@@ -89,9 +89,9 @@ Com mais de **80 endpoints** ativos, a plataforma oferece desde buscas e downloa
 Siga os passos abaixo para obter sua chave de acesso:
 
 ```
-Passo 1 → Entre em contato pelo Instagram @uzuback
+Passo 1 → Entre na aba principal da api e clique em comprar key
 Passo 2 → Escolha o plano que melhor atende seu projeto
-Passo 3 → Após a confirmação, receba sua apitoken
+Passo 3 → Após a confirmação, receba seu apitoken na hora
 Passo 4 → Use ?apitoken=SUA_KEY em qualquer endpoint
 ```
 
@@ -107,9 +107,9 @@ GET https://waguapis.online/yt-search?titulo=matuê+1993&apitoken=SUA_KEY
 
 | Plano | Requisições | Endpoints | Suporte | Preço |
 |-------|-------------|-----------|---------|-------|
-| ⚖️ **Básico** | 1000 | Básicos | Instagram | 1R$ |
+| ⚖️ **Básico** | 1000 | Todos (80+) | Instagram | 1R$ |
 | ⭐ **Premium** | 5000 | Todos (80+) | Instagram | 5R$ |
-| 👑 **Enterprise** | 2000 | Instagram | Dedicado | 20R$ |
+| 👑 **Enterprise** | 2000 | Todos (80+) | Instagram | 20R$ |
 
 > 📲 Para contratar, acesse: **[instagram.com/uzuback](https://instagram.com/uzuback)**
 

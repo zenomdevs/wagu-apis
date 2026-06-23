@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/zenomdevs/uploads/main/049njw.jpeg" width="120" style="border-radius:20px;" />
+<img src="https://raw.githubusercontent.com/zenomdevs/uploads/main/049njw.jpeg" width="120" style="border-radius:25px;" />
 
 <br/>
 
@@ -140,8 +140,8 @@ GET /yt-search
 
 | Parâmetro | Tipo | Status | Descrição |
 |-----------|------|--------|-----------|
-| `titulo` | string | ✅ obrigatório | Nome do vídeo ou música |
-| `apitoken` | string | ✅ obrigatório | Sua chave de acesso |
+| `titulo` | string | obrigatório | Nome do vídeo ou música |
+| `apitoken` | string | obrigatório | Sua chave de acesso |
 
 **Exemplo de URL:**
 ```
@@ -254,10 +254,10 @@ GET /sticker
 
 | Parâmetro | Tipo | Status | Descrição |
 |-----------|------|--------|-----------|
-| `url` | string | ✅ obrigatório | URL da imagem ou vídeo |
-| `pack` | string | ⬜ opcional | Nome do pacote de figurinhas |
-| `author` | string | ⬜ opcional | Autor da figurinha |
-| `apitoken` | string | ✅ obrigatório | Sua chave de acesso |
+| `url` | string | obrigatório | URL da imagem ou vídeo |
+| `pack` | string | opcional | Nome do pacote de figurinhas |
+| `author` | string | opcional | Autor da figurinha |
+| `apitoken` | string | obrigatório | Sua chave de acesso |
 
 **Exemplo de URL:**
 ```
@@ -355,9 +355,9 @@ GET /download
 
 | Parâmetro | Tipo | Status | Descrição |
 |-----------|------|--------|-----------|
-| `url` | string | ✅ obrigatório | Link do vídeo a baixar |
-| `quality` | string | ⬜ opcional | `360p` / `720p` / `1080p` |
-| `apitoken` | string | ✅ obrigatório | Sua chave de acesso |
+| `url` | string | obrigatório | Link do vídeo a baixar |
+| `quality` | string | opcional | `360p` / `720p` / `1080p` |
+| `apitoken` | string | obrigatório | Sua chave de acesso |
 
 **Exemplo de URL:**
 ```
@@ -498,7 +498,7 @@ print(res.json())
 
 ### uzuback
 
-*Transformando ideias em sistemas inteligentes, APIs modernas e experiências visuais únicas.*
+**Transformando ideias em sistemas inteligentes, APIs modernas e experiências visuais únicas.**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40uzuback-ec4899?style=for-the-badge&logo=instagram&labelColor=0d1117)](https://instagram.com/uzuback)
 [![Plataforma](https://img.shields.io/badge/Plataforma-waguapis.online-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://waguapis.online)
@@ -512,14 +512,14 @@ print(res.json())
 ```
 © 2026 WAGURI API's — Todos os direitos reservados.
 Desenvolvido por uzuback. Uso não autorizado é proibido.
-Para adquirir acesso, entre em contato via Instagram: @uzuback
+Para adquirir acesso, entre em contato.
 ```
 
 ---
 
 <div align="center">
 
-**Feito com 🟣 por [uzuback](https://instagram.com/uzuback)**
+**Feito por [uzuback](https://instagram.com/uzuback)**
 
 <a href="https://waguapis.online">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Acessar%20Plataforma-waguapis.online-8b5cf6?style=for-the-badge&labelColor=1a0a2e&color=8b5cf6" />

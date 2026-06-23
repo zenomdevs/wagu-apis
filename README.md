@@ -86,7 +86,7 @@ Com mais de **80 endpoints** ativos, a plataforma oferece desde buscas e downloa
 
 > ⚠️ **O parâmetro `apitoken` é obrigatório em todas as rotas.** Sem ele, a API retorna `401 Unauthorized`.
 
-Siga os passos abaixo para obter sua chave de acesso:
+Siga os passos abaixo para obter sua chave:
 
 ```
 Passo 1 → Entre na aba principal da api e clique em comprar key

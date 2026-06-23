@@ -107,11 +107,11 @@ GET https://waguapis.online/yt-search?titulo=matuê+1993&apitoken=SUA_KEY
 
 | Plano | Requisições | Endpoints | Suporte | Preço |
 |-------|-------------|-----------|---------|-------|
-| ⚖️ **Básico** | 1000 | Todos (80+) | Instagram | 1R$ |
-| ⭐ **Premium** | 5000 | Todos (80+) | Instagram | 5R$ |
-| 👑 **Enterprise** | 2000 | Todos (80+) | Instagram | 20R$ |
+| **Básico** | 1000 | Todos | Instagram | 1R$ |
+| **Premium** | 5000 | Todos | Instagram | 5R$ |
+| **Enterprise** | 2000 | Todos | Instagram | 20R$ |
 
-> 📲 Para contratar, acesse: **[instagram.com/uzuback](https://instagram.com/uzuback)**
+> 📲 Para contratar, acesse: **[instagram.com/uzuback](https://instagram.com/uzuback/links)**
 
 ---
 

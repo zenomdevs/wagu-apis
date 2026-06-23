@@ -35,8 +35,8 @@
 ## 📋 Índice
 
 - [🟣 Sobre a plataforma](#-sobre-a-plataforma)
-- [⚡ Recursos disponíveis](#-recursos-disponíveis)
-- [🔑 Como adquirir seu Token](#-como-adquirir-seu-token)
+- [🟢 Recursos disponíveis](#-recursos-disponíveis)
+- [🔐 Como adquirir seu Token](#-como-adquirir-seu-token)
 - [📦 Planos](#-planos)
 - [🌐 Base URL](#-base-url)
 - [📡 Endpoints documentados](#-endpoints-documentados)

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/zenomdevs/uploads/main/049njw.jpeg" width="120" style="border-radius:25px;" />
+<img src="https://raw.githubusercontent.com/zenomdevs/uploads/main/iew1wv.png" width="120" style="border-radius:40px;" />
 
 <br/>
 

@@ -5,7 +5,7 @@
 
 <br/>
 
-# 🟣 WAGURI API's — Premium Platform
+# 🟣 WAGURI API's
 
 **Uma plataforma completa de APIs, Canvas, Uploads e Downloaders**  
 **para desenvolvedores que criam sistemas modernos e automatizados.**
